@@ -4,7 +4,7 @@
 
 Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [informatiCup](https://informaticup.github.io/) - im Jahr 2024 bereits im 19. Jahr in Folge.
 
-Die Aufgabe des [InformatiCup 2024](https://informaticup.github.io/competition/20-current) besteht aus zwei Teilen. Im ersten Teil sollen in Form einer technischen Marktanalyse vorhandene Modelle, die für die Erzeugung von Texten und Bildern genutzt werden können, und ebenso Modelle und Algorithmen für die Detektion von generierten Inhalten untersucht werden. Im zweiten Teil soll ein Programm, das durch möglichst minimale Änderungen von KI-generierten Texten und Bildern bestehende KI-Detektoren austricksen kann, entwickelt werden.
+Die Aufgabe des [informatiCup 2024](https://informaticup.github.io/competition/20-current) besteht aus zwei Teilen. Im ersten Teil sollen in Form einer technischen Marktanalyse vorhandene Modelle, die für die Erzeugung von Texten und Bildern genutzt werden können, und ebenso Modelle und Algorithmen für die Detektion von generierten Inhalten untersucht werden. Im zweiten Teil soll ein Programm, das durch möglichst minimale Änderungen von KI-generierten Texten und Bildern bestehende KI-Detektoren austricksen kann, entwickelt werden.
 
 Die Anmeldung zum Wettbewerb findet über das Online-Portal [Teammates](Teammates.md) statt. Benutzerkonten aus dem letzten Jahr sind dafür weiterhin gültig. Nur die Teams müssen für die neue Wettbewerbsrunde neu angelegt werden.
 
@@ -14,7 +14,7 @@ Weitere Infos und einen Rückblick auf die 18 Wettbewerbsrunden seit dem Jahr 20
 
 The [German Informatics Society](https://gi.de) hosts the [informatiCup](https://informaticup.github.io/) collegiate computer science competition - in 2024 for the 19th consecutive time.
 
-The task of the [InformatiCup 2024](https://informaticup.github.io/competition/20-current) consists of two parts. In the first part, existing models that can be used to generate texts and images, as well as models and algorithms for detecting generated content, shall be examined in form of a technical market analysis. Furthermore, a program shall be developed that can outsmart existing AI detectors by making minimal changes to AI-generated texts and images.
+The task of the [informatiCup 2024](https://informaticup.github.io/competition/20-current) consists of two parts. In the first part, existing models that can be used to generate texts and images, as well as models and algorithms for detecting generated content, shall be examined in form of a technical market analysis. Furthermore, a program shall be developed that can outsmart existing AI detectors by making minimal changes to AI-generated texts and images.
 
 Sign up for the competition via the online portal [Teammates](Teammates.md). Existing user accounts remain valid for the current competition. Just assemble and register the new teams.
 
