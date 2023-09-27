@@ -16,6 +16,24 @@ Further information and a retrospective on the 18 informatiCup competitions sinc
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19118630/4ea5533c-8b1d-11e6-8496-a796adce2001.png)
 
+## Preisgeld / Price money
+
+Die Sponsoren des informatiCup ermöglichen auch in diesem Jahr wieder attraktive Geldpreise.
+
+1. Platz 4000 €
+2. Platz 2000 €
+3. Platz 1000 €
+
+~
+
+The informatiCup sponsors will again offer attractive cash prizes this year.
+
+1. Place 4000 €
+2. Place 2000 €
+3. Place 1000 €
+
+![image](https://cloud.githubusercontent.com/assets/1872314/19119326/b43d4978-8b1f-11e6-9736-a31f92e75424.png)
+
 ## Informatikwissen ist universell - Zeigt es uns! / Software is eating the world - Let's prove it
 
 Seid kreativ, habt Visionen und seid nicht allein! Gefragt sind umfassende Problemlösungen die in kommunikativen Prozessen entwickelt werden. Der informatiCup ist kein reiner Programmierwettbewerb. Die Aufgabenstellung erfordert theoretisches Wissen, die Fähigkeit zur wissenschaftlichen Problemlösung und moderne Präsentationstechniken. Kopf- und Handarbeit sind gefragt. Macht mit! Attraktive Preise winken den Gewinnern.
@@ -35,6 +53,17 @@ Der informatiCup richtet sich an eingeschriebene Studierende (außer Promotionss
 The informatiCup targets enrolled students throughout all fields of study and semesters. This competition is designed to challenge students to embrace and apply new technologies by themselves. You should enjoy working in a team as only teams between 2 to 4 persons are accepted. If you are interested, you can also participate with members from different universities. Participation is free (no charges involved).
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19118952/6e878106-8b1e-11e6-9e3d-0f7dc393d71a.png)
+
+## Zeitplan des Wettbewerbs / Timeline
+
+Den Zeitplan des aktuellen Wettbewerbs gibt es [hier](https://informaticup.github.io/competition/20-current).
+
+~
+
+The timeline of the current competition is available [here](https://informaticup.github.io/competition/20-current).
+
+![image](https://cloud.githubusercontent.com/assets/1872314/19183660/a90e3f84-8c79-11e6-9047-b13c02a3290d.png)
+
 
 ## Fragen / FAQs
 
