@@ -1,4 +1,4 @@
-![informatiCup2](https://user-images.githubusercontent.com/600435/95178310-92ebb180-07bf-11eb-83bb-4e897e960e53.png)
+![InforamtiCup_Logo_blau](https://github.com/informatiCup/informatiCup2024/assets/600435/285e0b9b-e54d-4cb9-8b18-45520c07276a)
 
 # informatiCup 2024
 
