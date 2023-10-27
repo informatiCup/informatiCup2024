@@ -1,3 +1,5 @@
+![logo192](https://github.com/informatiCup/informatiCup2024/assets/600435/80920443-a9bb-4368-80cf-6663fb5e693d)
+
 # Teilnahme & Quelltextverwaltung
 
 ## Das Teammates Online-Portal
