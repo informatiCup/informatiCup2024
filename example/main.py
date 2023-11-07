@@ -15,7 +15,7 @@ def process_image_file(in_path, out_path):
     skimage.io.imsave(out_path, augmented_image, check_contrast=False)
 
 def process_text_file(in_path, out_path):
-    """ Replaces every occurence of a white space with double white space to augment a text. """
+    """ Replaces every occurrence of a white space with double white space to augment a text. """
     # open and read a text file
     text = in_path.read_text()
     # augment the text file
@@ -34,7 +34,7 @@ if __name__ == '__main__':
     # check if the input and output filetypes match, otherwise we might need to process the data differently
     assert input_filepath.suffix == output_filepath.suffix
 
-    # create needed directiories first, if not already created
+    # create needed directories first, if not already created
     output_filepath.parent.mkdir(parents=True, exist_ok=True)
 
     # Process files accordingly to suffix
