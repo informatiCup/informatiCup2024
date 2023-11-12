@@ -1,7 +1,7 @@
 """
 Abstract Base Class of a Generator
 """
-from abc import ABC
+from abc import ABC, abstractmethod
 
 
 class Generator(ABC):
@@ -14,6 +14,7 @@ class Generator(ABC):
     def __int__(self):
         self.type = "abstract"
 
+    @abstractmethod
     def generate(self, output_file_path):
         """
         Generates an artefact and returns it
