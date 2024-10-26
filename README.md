@@ -2,23 +2,23 @@
 
 # InformatiCup 2024
 
-Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [InformatiCup](https://informaticup.github.io/) - im Jahr 2024 bereits im 19. Jahr in Folge.
+Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [InformatiCup](https://informaticup.gi.de/) - im Jahr 2024 bereits im 19. Jahr in Folge.
 
-Die Aufgabe des [InformatiCup 2024](https://informaticup.github.io/competition/20-current) besteht aus zwei Teilen. Im ersten Teil sollen in Form einer technischen Marktanalyse vorhandene Modelle, die für die Erzeugung von Texten und Bildern genutzt werden können, und ebenso Modelle und Algorithmen für die Detektion von generierten Inhalten untersucht werden. Im zweiten Teil soll ein Programm, das durch möglichst minimale Änderungen von KI-generierten Texten und Bildern bestehende KI-Detektoren austricksen kann, entwickelt werden. Dieses Jahr ermutigen wir explizit, kreative Erweiterungen der Aufgabenstellung, wie beispielsweise ein Browser-Plugin für das visuelle Einfärben von KI-generierten Eingaben einzureichen.
+Die Aufgabe des [InformatiCup 2024](https://informaticup.gi.de/competition/20-current) besteht aus zwei Teilen. Im ersten Teil sollen in Form einer technischen Marktanalyse vorhandene Modelle, die für die Erzeugung von Texten und Bildern genutzt werden können, und ebenso Modelle und Algorithmen für die Detektion von generierten Inhalten untersucht werden. Im zweiten Teil soll ein Programm, das durch möglichst minimale Änderungen von KI-generierten Texten und Bildern bestehende KI-Detektoren austricksen kann, entwickelt werden. Dieses Jahr ermutigen wir explizit, kreative Erweiterungen der Aufgabenstellung, wie beispielsweise ein Browser-Plugin für das visuelle Einfärben von KI-generierten Eingaben einzureichen.
 
 Die Anmeldung zum Wettbewerb findet über das Online-Portal [Teammates](Teammates.md) statt. Benutzerkonten aus dem letzten Jahr sind dafür weiterhin gültig. Nur die Teams müssen für die neue Wettbewerbsrunde neu angelegt werden.
 
-Weitere Infos und einen Rückblick auf die 18 Wettbewerbsrunden seit dem Jahr 2005 gibt es auf der [offiziellen InformatiCup-Webseite](https://informaticup.github.io/).
+Weitere Infos und einen Rückblick auf die 18 Wettbewerbsrunden seit dem Jahr 2005 gibt es auf der [offiziellen InformatiCup-Webseite](https://informaticup.gi.de/).
 
 ~
 
-The [German Informatics Society](https://gi.de) hosts the [InformatiCup](https://informaticup.github.io/) collegiate computer science competition - in 2024 for the 19th consecutive time.
+The [German Informatics Society](https://gi.de) hosts the [InformatiCup](https://informaticup.gi.de/) collegiate computer science competition - in 2024 for the 19th consecutive time.
 
-The task of the [IhinformatiCup 2024](https://informaticup.github.io/competition/20-current) consists of two parts. In the first part, existing models that can be used to generate texts and images, as well as models and algorithms for detecting generated content, shall be examined in form of a technical market analysis. Furthermore, a program shall be developed that can outsmart existing AI detectors by making minimal changes to AI-generated texts and images.
+The task of the [InformatiCup 2024](https://informaticup.gi.de/competition/20-current) consists of two parts. In the first part, existing models that can be used to generate texts and images, as well as models and algorithms for detecting generated content, shall be examined in form of a technical market analysis. Furthermore, a program shall be developed that can outsmart existing AI detectors by making minimal changes to AI-generated texts and images.
 
 Sign up for the competition via the online portal [Teammates](Teammates.md). Existing user accounts remain valid for the current competition. Just assemble and register the new teams.
 
-Further information and a retrospective on the 18 InformatiCup competitions since 2005 are available on the [official InformatiCup website](https://informaticup.github.io/).
+Further information and a retrospective on the 18 InformatiCup competitions since 2005 are available on the [official InformatiCup website](https://informaticup.gi.de/).
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19118630/4ea5533c-8b1d-11e6-8496-a796adce2001.png)
 
@@ -62,11 +62,11 @@ The InformatiCup targets enrolled students throughout all fields of study and se
 
 ## Zeitplan des Wettbewerbs / Timeline
 
-Den Zeitplan des aktuellen Wettbewerbs gibt es [hier](https://informaticup.github.io/competition/20-current).
+Den Zeitplan des aktuellen Wettbewerbs gibt es [hier](https://informaticup.gi.de)
 
 ~
 
-The timeline of the current competition is available [here](https://informaticup.github.io/competition/20-current).
+The timeline of the current competition is available [here](https://informaticup.gi.de).
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19183660/a90e3f84-8c79-11e6-9047-b13c02a3290d.png)
 
@@ -86,8 +86,8 @@ Current news is also available on Twitter from [@informatiCup](https://twitter.c
 
 ## Resultate vergangener Wettbewerbe / Results from previous informatiCup challenges
 
-Wenn ihr eine Idee bekommen möchtet, wie die Dokumentation von Gewinner-Teams der letzten Jahre aussieht, [schaut euch](https://informaticup.github.io/solutions) die Ergebnisse der letzten Jahre an.
+Wenn ihr eine Idee bekommen möchtet, wie die Dokumentation von Gewinner-Teams der letzten Jahre aussieht, [schaut euch](https://informaticup.gi.de/wettbewerb/aufgaben-loesungen) die Ergebnisse der letzten Jahre an.
 
 ~
 
-If you like to get inspired on how documentation for successful InformatiCup submissions look like [check out](https://informaticup.github.io/solutions) the results from previous years.
+If you like to get inspired on how documentation for successful InformatiCup submissions look like [check out](https://informaticup.gi.de/wettbewerb/aufgaben-loesungen) the results from previous years.
